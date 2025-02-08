@@ -8,6 +8,8 @@
 - **HPC Job Submission:** Generate job scripts for UGE or Slurm based on your simulation inputs.
 - **Interactive Chat Mode:** Ask questions and get answers using an LLM-powered knowledge assistant.
 
+- **Make sure to provide your API key in the config.py file**
+
 ## Installation
 
 Clone the repository and install in editable mode:

@@ -16,6 +16,5 @@ Clone the repository and install in editable mode:
 
 ```bash
 git clone https://github.com/theOsaroJ/osairo-scientist-llm.git
-cd osairo
 pip install -e .
 pip install -U langchain-openai click pandas numpy scikit-learn

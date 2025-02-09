@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='osairo',
     version='0.1.0',
-    description='All-purpose molecular modeling, quantum chemistry, ML active learning, and HPC job script generator',
+    description='All-purpose molecular modeling, quantum chemistry, ML active learning, HPC job script and simulator input script generator',
     author='Etinosa Osaro',
     author_email='eosaro@nd.edu',
     packages=find_packages(),

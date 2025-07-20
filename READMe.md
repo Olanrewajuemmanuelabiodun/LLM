@@ -1,4 +1,4 @@
-# osairo
+# osAIro
 
 **osairo** is an all-purpose scientific software tool for molecular modeling, quantum chemistry, machine learning active learning, and HPC job script generation. It features:
 
